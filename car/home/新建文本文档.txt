@@ -1,0 +1,8 @@
+<?php
+namespace app\car\admin\Home;
+use app\admin\controller\Admin;
+
+class Base extends Common
+{
+   echo "this is test";
+}
